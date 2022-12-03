@@ -1,2 +1,2 @@
 # Hamoye
-Codes for all Hamoye internship projects.
+Code for Hamoye internship projects.
